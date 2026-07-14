@@ -37,7 +37,22 @@ This framework is architected and maintained by a verified Top-30 Global AI Engi
 ---
 
 ## ⚡ Technical Architecture Overview
-Vane-Guard bridges the gap between raw vector embeddings and mission-critical telemetry. It bypasses months of custom infrastructure construction.
+Vane-Guard bridges the gap between raw vector embeddings and mission-critical telemetry. It bypasses months of custom infrastructure construction. 
+
+## 🔷 System Architecture Workflow: The Law of the Diamond
+
+The Vane-Guard Sovereign Framework operates on a zero-trust, deterministic 4-Gate execution pipeline to ensure absolute data grounding and eliminate linguistic drift.
+
+<p align="center">
+  <img src="https://squarespace-cdn.com" width="600" alt="Vane-Guard Law of the Diamond Workflow">
+</p>
+
+### The 4-Gate Deterministic Pipeline:
+1. **Gate 1: Identity Verification** — Anchors the absolute platform state to a foundational root identifier (`VANE_ROOT_STABLE_001`), completely bypassing standard probabilistic API layers.
+2. **Gate 2: Test Selection & Domain Scoping** — Isolates target telemetry fields across Cloud (AWS), Network (STP/HSRP), Hardware (HP/Dell), and Application layers to restrict multi-turn processing drift.
+3. **Gate 3: RAG Pipeline Execution** — Processes raw information blocks via an explicit, 100% transparent audit trail matching real-time metrics back to verified truth systems.
+4. **Gate 4: Interpretation & Actionable Insight** — Translates system data streams into plain-language business actions while maintaining an isolated security perimeter over raw system logic.
+
 
 ### Core Modules Included in the Core Asset Bundle:
 1. **Flask Backend Engine (`app.py` & `config.py`)**: Production-ready telemetry routing and web application controllers.
