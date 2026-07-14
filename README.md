@@ -44,7 +44,7 @@ Vane-Guard bridges the gap between raw vector embeddings and mission-critical te
 The Vane-Guard Sovereign Framework imposes a rigid, deterministic anchor over probabilistic AI systems to eliminate linguistic drift and structural hallucinations natively at the runtime layer.
 
 <p align="center">
-  <img src="vane_enterprise-llc_notebooklm.jpg" width="650" alt="Vane-Guard Sovereign Framework Blueprint">
+  <img src="Vane_enterprise-llc_notebooklm.jpg" width="650" alt="Vane-Guard Sovereign Framework Blueprint">
 </p>
 
 ### The 4-Gate Deterministic Processing Pipeline:
