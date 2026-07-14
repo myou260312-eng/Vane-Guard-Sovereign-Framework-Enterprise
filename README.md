@@ -21,7 +21,7 @@ Select the tier that fits your development or business needs. Payments are proce
 * 🏢 **Enterprise / Commercial License ($499)** — Full commercial rights to deploy, modify, rebrand, and distribute the framework within an enterprise ecosystem.
 * 💎 **Full Intellectual Property (IP) Transfer ($2,000)** — 100% exclusive asset buyout. Includes complete copyright handover and direct architectural handoff documentation.
 
-👉 **[CLICK HERE TO PURCHASE ACCESS KEYS & SOURCE CODE VIA GUMROAD](https://dvane.gumroad.com/l/enterprise)**
+👉 **[CLICK HERE TO PURCHASE ACCESS KEYS & SOURCE CODE VIA GUMROAD](https://dvane.gumroad.com/l/vane-core)**
 
 *After checkout, you will receive an automated invitation granting immediate read/write access to the private production repository.*
 
