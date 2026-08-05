@@ -1,10 +1,10 @@
 # Vane-Guard-Sovereign-Framework-Enterprise
-Production-ready full-stack AI/RAG boilerplate &amp; telemetry frontend framework. Engineered by a Global Top-30 AI Engineer (#11 AlphaNova Leaderboard) to bypass months of core infrastructure architecture design. Features optimized Python Flask backend modules, advanced data ingestion streams, and edge-routing configuration specs.
+Production-ready full-stack AI/RAG boilerplate &amp; telemetry frontend framework. Engineered by a **Global Top Rank Holder-57/873 AI Engineer (Global Leaderboard Rank holder 28 in AlphaNova Tech)** to bypass months of core infrastructure architecture design. Features optimized Python Flask backend modules, advanced data ingestion streams, and edge-routing configuration specs.
 # Vane-Guard Sovereign Framework (v1.0.0) 
 ### High-Precision Enterprise AI & Full-Stack RAG Infrastructure
 
-[![License: Premium Commercial](https://shields.io)](https://gumroad.com) 
-[![Developer Rank](https://shields.io)](#)
+[![License: Premium Commercial](https://shields.io)](https://dvane.gumroad.com/l/vane-core) 
+[![Developer Rank](https://shields.io)](#28)
 
 ---
 
@@ -28,11 +28,13 @@ Select the tier that fits your development or business needs. Payments are proce
 ---
 
 ## 🏆 Engineered by Elite Technical Talent
-This framework is architected and maintained by a verified Top-30 Global AI Engineer:
-* **AlphaNova Competition:** Global Rank #30 / 613
-* **Global Leaderboard:** Rank #11
+This framework is architected and maintained by a verified **Top-57/873 Global AI Engineer**:
+* **AlphaNova Competition: Global Rank #57/873**
+* **Global Leaderboard:** Rank #28
 * **Developer Reputation:** 62.5
-* **Verified Scientific Contributions:** 2 Enterprise applications submitted through [Zenodo](https://doi.org) (EUROPEAN F&T Project framework).
+* **Verified Scientific Contributions:** [VANE-GUARD INTELLIGENCE PLATFORM](https://zenodo.org/records/21342530)
+[Vane-Guard Sovereign Framework (v1.0): Enterprise Governance and Diagnostic Protocol](https://zenodo.org/records/21301987)
+[AnticipatedD/Vane-Guard-Sovereign-RAG: Vane-Guard Sovereign Framework (v1.0.0) - Initial Diagnostic Release](https://zenodo.org/records/21303273) (EUROPEAN F&T Project framework).
 
 ---
 
@@ -69,7 +71,7 @@ Our structural backtesting engine enforces a strict security boundary by routing
 
 ### Live Architecture Demo
 Explore the production-ready interface layout running live:
-🔗 **[Live Telemetry Dashboard Preview](https://netlify.app)**
+🔗 **[Live Telemetry Dashboard Preview](https://agent-6a2657bfba8dd527aeb2e--vane-enterprise-llc.netlify.app/)**
 
 ---
 
