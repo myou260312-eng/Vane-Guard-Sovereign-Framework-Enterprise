@@ -1,14 +1,17 @@
 # Vane-Guard-Sovereign-Framework-Enterprise
 Production-ready full-stack AI/RAG boilerplate &amp; telemetry frontend framework. Engineered by a **Global Top - 57/873** AI Engineer **(Global Leaderboard Rank holder 28 in AlphaNova Tech)** to bypass months of core infrastructure architecture design. Features optimized Python Flask backend modules, advanced data ingestion streams, and edge-routing configuration specs.
-# Vane-Guard Sovereign Framework (v1.0.0) 
 
-### High-Precision Enterprise AI & Full-Stack RAG Infrastructure
+# Vane-Guard Sovereign Framework (v1.0.0)
 
-[![License: Premium Commercial](https://shields.io)](https://dvane.gumroad.com/l/vane-core) 
-[![Developer Rank](https://shields.io)](#28)
+## High-Precision Enterprise AI & Full-Stack RAG Infrastructure
+
+![License: Premium Commercial](https:&#47;&#47;img.shields.io&#47;badge&#47;License-Premium_Commercial-0078D4?style=flat-square&logo=license&logoColor=white)
+
+![Vane-Guard Sovereign Framework v1.0.0](Vane-Guard_Sovereign_Framework.jpg)
+
+![Developer Rank](https:&#47;&#47;img.shields.io&#47;badge&#47;Developer-Rank-blue?style=flat-square)
 
 ---
-
 ## 🔒 Proprietary Asset & Commercial Licensing
 
 This repository serves as the public landing page and documentation hub for the **Vane-Guard Sovereign Framework**. The source code is closed-source and protected under a strict commercial license. 
