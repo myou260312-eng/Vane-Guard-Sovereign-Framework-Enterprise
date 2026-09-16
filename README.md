@@ -1,4 +1,14 @@
 # Vane-Guard-Sovereign-Framework-Enterprise
+
+<div align="center">
+  
+### **AI & Machine Learning**
+  
+![AI Systems](https://img.shields.io/badge/AI_Systems-Advanced-brightgreen?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-Expert-blue?style=flat-square)
+![Truth_AI](https://img.shields.io/badge/Truth_AI-Sovereign-purple?style=flat-square)
+![Hallucination Prevention](https://img.shields.io/badge/Hallucination_Prevention-Master-red?style=flat-square)
+  
 Production-ready full-stack AI/RAG boilerplate &amp; telemetry frontend framework. Engineered by a **Global Top - 57/873** AI Engineer **(Global Leaderboard Rank holder 28 in AlphaNova Tech)** to bypass months of core infrastructure architecture design. Features optimized Python Flask backend modules, advanced data ingestion streams, and edge-routing configuration specs.
 
 # Vane-Guard Sovereign Framework (v1.0.0)
